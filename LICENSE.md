@@ -1,4 +1,4 @@
-# 
+# Último Semantic Code Search plugins. Con web scraping y búsqueda semántica — optimizado para el máximo rendimiento y eficiencia.
 
 
 
